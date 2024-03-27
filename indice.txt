@@ -1,3 +1,1 @@
-"Cap¡tulo 1: Introducci¢n a Git" 
-"Cap¡tulo 2: Flujo de trabajo b sico" 
-"Cap¡tulo 3: Repositorios remotos" 
+"Cap¡tulo 4: Repositorios remotos" 
